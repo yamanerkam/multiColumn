@@ -1,0 +1,15 @@
+.parent {
+    column-rule: 1px solid black;
+    column-count: 3;
+    column-gap: 20px;
+    background-color: aquamarine;
+}
+
+h2 {
+    column-span: all;
+}
+
+.e {
+    column-fill: auto;
+
+}
